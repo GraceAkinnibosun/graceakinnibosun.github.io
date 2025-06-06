@@ -5,7 +5,7 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Sudip Sharma
-  title: PhD Student, Computer Science
+  title: Graduate Student, Computer Science
   image: /assets/images/grad_mentor.jpeg
   linkedin: https://www.linkedin.com/in/nxxis/
   bio: |
