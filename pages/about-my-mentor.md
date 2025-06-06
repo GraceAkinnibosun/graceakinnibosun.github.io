@@ -9,7 +9,7 @@ graduate_mentor:
   image: /assets/images/grad_mentor.jpeg
   linkedin: https://www.linkedin.com/in/nxxis/
   bio: |
-    Sudip Sharma is a graduate student in Advanced Computing at Morgan State University, focusing on fairness in AI systems for healthcare under Dr. Blessing Ojeme. He also works as a graduate research assistant at the Center for Equitable Artificial Intelligence and Machine Learning Systems.
+    Sudip Sharma is a graduate student in Advanced Computing at Morgan State University, focusing on fairness in AI systems for healthcare under Dr. Blessing Ojeme. He also works as a graduate research assistant at the Center for Equitable Artificial Intelligence and Machine Learning Systems.Right now Sudip is completing his Masters in Advanced Computing, he is expected to graduate December of 2026. He is currently residing in Baltimore Maryland, but it is originally from Nepal. Sudip enjoys hiking, singing, and live performances
 
 faculty_mentor:
   name: Dr. Timothy Oladunni
